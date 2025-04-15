@@ -141,6 +141,11 @@ h3{
         padding: 5px 50px 7px;
     }
 }
+@media (max-width:350px){
+    #par{
+        padding: 5px 50px 7px;
+    }
+}
 
 .whtxt{
     color: #fff;
